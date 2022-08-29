@@ -17,6 +17,29 @@ Reminder: There is a "Markdown Help" page available in RStudio.
 
 ## In-class Activity, Markdown
 
+### Wise words
+
+From Shakespeare:
+
+> Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them.
+
+Here is a [link](https://writingexplained.org/idiom-dictionary/some-people-are-born-great) for more information on that quote
+
+### My semester
+
+Course Number | Course Title | Instructor Name
+ ------------ | ------------ | -------------- 
+ __ART_1302__ | _History of Art: Renaissance to Present_ | Jessica Kubala 
+ __CS_1311__ | _Introduction to CS with Python_ |  Joseph Kamto
+ __Data_2401__ | _Data Science 1_ | Katherine Shoemaker
+ __Math_2305__ | _Discrete Math_ | Mitsue Nakamura
+ __Math_3302__ | _Probability and Statistics_ | Plamen Simeonov
+ 
+ 
+### I Recommend Kanye West
+
+
+ 
 Below the "Your work here" section header, do the following 3 things. To turn this in, knit the RMarkdown file, and zip and submit the html.  
 
 1. Make a subsection called "Wise words". Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
